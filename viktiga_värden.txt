@@ -1,0 +1,24 @@
+peak_water_ssp126: 2053
+peak_water_ssp370: 2053
+peak_water_ssp585: 2043
+
+i början stod regn för x stor andel av totala avrinningen och i slutet x mycket. 
+år 2020											år 2100
+
+ssp585:
+(2020) smält 0.8 av total: 1130
+(2043) smält 0.79 av total: 1600
+(2100) smält 0.64 av total 1100
+
+ssp370:
+(2020) smält 0.79 av total: 1450
+(2053) smält 0.77 av total: 1550
+(2100) smält 0.68 av total: 1250
+
+ssp126:
+(2020) smält 0.79 av total: 1400
+(2053) smält 0.77 av total: 1500
+(2100) smält 0.72 av total: 1250
+
+Hur många glaciärer är kvar?
+72 av glaciärerna finns inte längre
